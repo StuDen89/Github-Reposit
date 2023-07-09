@@ -1,0 +1,43 @@
+.awesome {
+    background-color: white;
+    padding: 80px 0px 116px 0px;
+  }
+  .heading-awesome{
+    margin-bottom: 68px;
+  }
+  
+  .awesome_wrap_card {
+    display: flex;
+    justify-content: space-between;
+  }
+  .about_card {
+    width: 350px;
+  }
+  .about_card_img {
+    width: 70px;
+    height: 70px;
+    justify-content: center;
+    margin: 0px auto 30px auto;
+    border-radius: 50%;
+    border: 1px solid #e72424;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+  }
+  /* .about_card_img {   пустые удаляем
+
+  } */
+  .about_card_title {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 16px;
+  }
+  /* .about_card_description { пустые удаляем
+    
+  } */
+  .about_card_description {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+  }
